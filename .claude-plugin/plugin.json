@@ -1,0 +1,13 @@
+{
+  "name": "masri-tech-explainer",
+  "version": "1.0.0",
+  "description": "Explain technical topics in natural Egyptian Arabic (Masri) with layouts that stay readable when Arabic is mixed with English terms and code (no RTL/LTR bidi scrambling).",
+  "author": {
+    "name": "Abdelrahman Mamdouh",
+    "url": "https://github.com/Abdelrhamaan"
+  },
+  "homepage": "https://github.com/Abdelrhamaan/masri-tech-explainer",
+  "repository": "https://github.com/Abdelrhamaan/masri-tech-explainer",
+  "license": "MIT",
+  "keywords": ["arabic", "egyptian-arabic", "masri", "rtl", "bidi", "explainer", "skill"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "masri-tech",
+  "owner": {
+    "name": "Abdelrahman Mamdouh",
+    "url": "https://github.com/Abdelrhamaan"
+  },
+  "metadata": {
+    "description": "Egyptian Arabic (Masri) skills for developers"
+  },
+  "plugins": [
+    {
+      "name": "masri-tech-explainer",
+      "source": "./",
+      "description": "Explain technical topics in Egyptian Arabic without RTL/LTR bidi scrambling.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
